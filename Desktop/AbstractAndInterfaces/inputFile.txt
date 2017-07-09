@@ -1,0 +1,66 @@
+Manager
+Wallmart Store,Maryville,MO-64468
+Emraan Hashmi
+25000
+74
+35
+5000
+255000
+Manager
+HyVee Store,Maryville,MO-64468
+Ajay Devgan
+33000
+80
+40
+15000
+555000
+Manager
+Dollar General Store,Maryville,MO-64468
+Aishwarya Rai
+40000
+120
+50
+35000
+355000
+Sales Associate
+Wallmart Store,Maryville,MO-64468
+Madhuri Dixit
+15000
+77
+25
+0.25
+Sales Associate
+Wallmart Store,Maryville,MO-64468
+Tamanah
+15000
+100
+25
+0.35
+Sales Associate
+Wallmart Store,Maryville,MO-64468
+Amir Khan
+15000
+120
+25
+0.30
+Sales Associate
+Hyvee Store,Maryville,MO-64468
+Deepika Padukone
+20000
+85
+30
+0.31
+Sales Associate
+Hyvee Store,Maryville,MO-64468
+Priyanka Chopra
+20000
+60
+30
+0.20
+Sales Associate
+Hyvee Store,Maryville,MO-64468
+Sushanth Singh
+20000
+110
+30
+0.40

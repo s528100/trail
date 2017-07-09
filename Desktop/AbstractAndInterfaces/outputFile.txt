@@ -1,0 +1,87 @@
+******************************************************
+Number of employees working as MANAGER are: 3
+******************************************************
+1. Manager Details:
+Store Details: Wallmart Store,Maryville,MO-64468
+Employee Name: Emraan Hashmi
+Base Pay: $25000.0
+Number of Hours worked: 74.0hrs
+Payment Rate per hour: $35.0/hr
+Total Sales in store: $255000.0
+Sales done: $5000.0
+Percentage of sales done: 1.96%
+Gross Payment: $27865.9
+Remaining store revenue: $185691.077
+2. Manager Details:
+Store Details: HyVee Store,Maryville,MO-64468
+Employee Name: Ajay Devgan
+Base Pay: $33000.0
+Number of Hours worked: 80.0hrs
+Payment Rate per hour: $40.0/hr
+Total Sales in store: $555000.0
+Sales done: $15000.0
+Percentage of sales done: 2.70%
+Gross Payment: $39820.0
+Remaining store revenue: $415606.0
+3. Manager Details:
+Store Details: Dollar General Store,Maryville,MO-64468
+Employee Name: Aishwarya Rai
+Base Pay: $40000.0
+Number of Hours worked: 120.0hrs
+Payment Rate per hour: $50.0/hr
+Total Sales in store: $355000.0
+Sales done: $35000.0
+Percentage of sales done: 9.86%
+Gross Payment: $52900.0
+Remaining store revenue: $239780.0
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 6
+******************************************************
+Store Details: Wallmart Store,Maryville,MO-64468
+Employee Name: Madhuri Dixit
+Base Pay: $15000.0
+Number of Hours worked: 77.0hrs
+Payment Rate per hour: $25.0/hr
+Sales Rate: 25.0%
+Total commission: $0.0
+Gross Payment: $16925.0
+Store Details: Wallmart Store,Maryville,MO-64468
+Employee Name: Tamanah
+Base Pay: $15000.0
+Number of Hours worked: 100.0hrs
+Payment Rate per hour: $25.0/hr
+Sales Rate: 35.0%
+Total commission: $1500.0
+Gross Payment: $19000.0
+Store Details: Wallmart Store,Maryville,MO-64468
+Employee Name: Amir Khan
+Base Pay: $15000.0
+Number of Hours worked: 120.0hrs
+Payment Rate per hour: $25.0/hr
+Sales Rate: 30.0%
+Total commission: $0.0
+Gross Payment: $18000.0
+Store Details: Hyvee Store,Maryville,MO-64468
+Employee Name: Deepika Padukone
+Base Pay: $20000.0
+Number of Hours worked: 85.0hrs
+Payment Rate per hour: $30.0/hr
+Sales Rate: 31.0%
+Total commission: $2000.0
+Gross Payment: $24550.0
+Store Details: Hyvee Store,Maryville,MO-64468
+Employee Name: Priyanka Chopra
+Base Pay: $20000.0
+Number of Hours worked: 60.0hrs
+Payment Rate per hour: $30.0/hr
+Sales Rate: 20.0%
+Total commission: $0.0
+Gross Payment: $21800.0
+Store Details: Hyvee Store,Maryville,MO-64468
+Employee Name: Sushanth Singh
+Base Pay: $20000.0
+Number of Hours worked: 110.0hrs
+Payment Rate per hour: $30.0/hr
+Sales Rate: 40.0%
+Total commission: $2000.0
+Gross Payment: $25300.0
